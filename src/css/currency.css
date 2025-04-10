@@ -1,0 +1,35 @@
+.currency
+{
+    color: white;
+    border: 0px solid white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    margin-top: 100px;
+    border-radius: 20px;
+    background-color: rgba(97, 61, 114, 0.233);
+    align-items: center;
+}
+.currency div
+{
+    margin: 5px;
+}
+.currency div select,.currency div button,.currency div input,.currency div select option
+{
+    margin: 5px;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bolder;
+    width: auto;
+}
+ 
+.content
+{
+    width: 50vw;
+    height: auto;
+    background-color: rgba(23, 88, 88, 0.39);
+    border-radius: 20px;
+}
+
